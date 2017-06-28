@@ -1,0 +1,5 @@
+# Things I have learned at Bloc.io
+
+1.  New elements in HTML5
+2.  New properties in CSS3
+3.  Introduction to Git
